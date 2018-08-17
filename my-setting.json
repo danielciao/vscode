@@ -1,0 +1,15 @@
+{
+  "workbench.colorTheme": "Night Owl",
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "gitlens.historyExplorer.enabled": true,
+  "editor.tabSize": 2,
+  "files.autoSave": "afterDelay",
+  "eslint.autoFixOnSave": true,
+  "editor.formatOnSave": true,
+  "prettier.printWidth": 150,
+  "prettier.singleQuote": true,
+  "breadcrumbs.enabled": true,
+  "eslint.packageManager": "yarn"
+}
